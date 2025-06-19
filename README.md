@@ -136,10 +136,10 @@ docker-compose up --build
 
 ## 🛠 Технологии
 
-* Python 3.11+
-* Django 4+
-* Django REST Framework
-* PostgreSQL
+* Python 3.12.10
+* Django 5.2.3
+* Django REST Framework 3.16.0
+* PostgreSQL 17.4
 * Docker / Docker Compose
 
 ---
