@@ -50,7 +50,7 @@ docker-compose up --build
 | PostgreSQL | `5432`       | `5000`   | СУБД PostgreSQL    |
 | Adminer    | `8080`       | `80`     | Веб-интерфейс к БД |
 
-ℹ️ Для изменения портов и других параметров — [редактируйте Docker Compose ↓](#структура_docker_compose)
+ℹ️ Для изменения портов и других параметров — [редактируйте Docker Compose ↓](#-структура-docker-compose)
 
 ---
 
