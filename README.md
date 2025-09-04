@@ -9,7 +9,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/ваш-профиль/Restaurant-with-orders.git
+git clone https://github.com/AkihiroAck/Restaurant-with-orders.git
 cd Restaurant-with-orders
 ````
 
